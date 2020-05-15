@@ -10,7 +10,9 @@
 
 4. Create an interesting visualization showing how well your model performed by plotting predictions versus observed targets.
 
-## Project
+![image](https://user-images.githubusercontent.com/43942029/82087434-13e5c780-96be-11ea-8844-8332bc79ed47.png)
+
+## Project2KT
 
 
 1. An evaluation of the NNs accuracy; how well does it predict the observed targets based on the features as inputs.
@@ -23,5 +25,6 @@
 
 5. compare how binary cross-entropy compares with just using mean squared error.
 
+![image](https://user-images.githubusercontent.com/43942029/82087365-f31d7200-96bd-11ea-85db-18d2db2b6f1f.png)
 
 
