@@ -1,5 +1,8 @@
 # Keras-Deep-Learning
 
+## Keras Overview 
+   Keras is a high-level neural networks API, capable of running on top of Tensorflow, Theano, and CNTK. It enables fast  experimentation through a high level, user-friendly, modular and extensible API. Keras can also be run on both CPU and GPU.
+
 ## Keras task
 
 1. Prepare a Python code using Keras to solve the toy problem.
